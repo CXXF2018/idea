@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JDBC-1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JDBC_1_jar</output-path>
+    <root id="archive" name="JDBC-1.jar">
+      <element id="module-output" name="JDBC-1" />
+      <element id="extracted-dir" path="E:/big_data/尚硅谷_宋红康_JDBC核心技术(2019新版)/3-资料/3-资料/2-驱动/01-MySQL驱动/mysql-connector-java-5.1.37-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

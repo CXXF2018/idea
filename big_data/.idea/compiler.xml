@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataLoader" />
+        <module name="Flink" />
+        <module name="Flume" />
+        <module name="hadoop" />
+        <module name="HBase" />
+        <module name="HBase-demo-1" />
+        <module name="Kafka" />
+        <module name="KafkaStreaming" />
+        <module name="OfflineRecommender" />
+        <module name="OfflineRecommender_ecommerce" />
+        <module name="scala" />
+        <module name="spark" />
+        <module name="StatisticsRecommender" />
+        <module name="StatisticsRecommender_ecommerce" />
+        <module name="StreamingRecommender" />
+        <module name="StreamingRecommender_ecommerce" />
+        <module name="tcs-analysis" />
+        <module name="tcs-analysis-copy-1" />
+        <module name="tcs-common" />
+        <module name="tcs-common-copy-1" />
+        <module name="tcs-consumer" />
+        <module name="tcs-consumer-coprocessor" />
+        <module name="tcs-consumer-coprocessor-copy-1" />
+        <module name="tcs-consumer-copy-1" />
+        <module name="tcs-prodcuer-copy-1" />
+        <module name="tcs-producer" />
+        <module name="Zookeeper" />
+      </profile>
+      <profile name="Annotation profile for big_data" enabled="true">
+        <sourceOutputDir name="../../../MovieRecommendSystem/recommender/DataLoader/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../MovieRecommendSystem/recommender/DataLoader/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataLoader_ecommerce" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="big_data" target="1.5" />
+      <module name="DataLoader" target="1.5" />
+      <module name="DataLoader_ecommerce" target="1.8" />
+      <module name="EcommerceRecommendSystem" target="1.8" />
+      <module name="Flink" target="1.5" />
+      <module name="Flume" target="1.5" />
+      <module name="hadoop" target="1.5" />
+      <module name="HBase" target="1.5" />
+      <module name="HBase-demo-1" target="1.5" />
+      <module name="HBase-MR" target="1.5" />
+      <module name="Kafka" target="1.5" />
+      <module name="KafkaStreaming" target="1.8" />
+      <module name="MovieRecommendSystem" target="1.8" />
+      <module name="OfflineRecommender" target="1.8" />
+      <module name="OfflineRecommender_ecommerce" target="1.8" />
+      <module name="recommander" target="1.8" />
+      <module name="recommender" target="1.8" />
+      <module name="scala" target="1.5" />
+      <module name="spark" target="1.5" />
+      <module name="StatisticsRecommender" target="1.8" />
+      <module name="StatisticsRecommender_ecommerce" target="1.8" />
+      <module name="StreamingRecommender" target="1.8" />
+      <module name="StreamingRecommender_ecommerce" target="1.8" />
+      <module name="tcs-analysis" target="1.5" />
+      <module name="tcs-analysis-copy-1" target="1.5" />
+      <module name="tcs-common" target="1.5" />
+      <module name="tcs-common-copy-1" target="1.5" />
+      <module name="tcs-consumer" target="1.5" />
+      <module name="tcs-consumer-coprocessor" target="1.5" />
+      <module name="tcs-consumer-coprocessor-copy-1" target="1.5" />
+      <module name="tcs-consumer-copy-1" target="1.5" />
+      <module name="tcs-prodcuer-copy-1" target="1.5" />
+      <module name="tcs-producer" target="1.5" />
+      <module name="Telecom-customer-service" target="1.5" />
+      <module name="Telecom-customer-service-study-1" target="1.5" />
+      <module name="Zookeeper" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

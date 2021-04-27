@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="tcs-prodcuer-copy-1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tcs_prodcuer_copy_1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="tcs-prodcuer-copy-1.jar">
+        <element id="module-output" name="tcs-prodcuer-copy-1" />
+        <element id="module-output" name="tcs-common-copy-1" />
+      </element>
+    </root>
+  </artifact>
+</component>

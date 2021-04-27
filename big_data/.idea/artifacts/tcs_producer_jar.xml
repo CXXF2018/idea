@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="tcs-producer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tcs_producer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="tcs-producer.jar">
+        <element id="module-output" name="tcs-producer" />
+        <element id="module-output" name="tcs-common" />
+      </element>
+    </root>
+  </artifact>
+</component>

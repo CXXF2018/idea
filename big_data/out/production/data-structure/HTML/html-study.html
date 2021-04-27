@@ -1,0 +1,103 @@
+<!--
+	一个HTML页面最基本的组成结构
+	html：根标记
+	head：头标记   写描述性信息：（css/javascript）
+	body：体标记   写页面显示信息
+-->
+
+<html>
+    <head>
+        <!--引入外部样式文件-->
+        <link rel="stylesheet" type="text/css" href="my.css">
+        <style>
+            div{
+                width: 300px;
+                height: 300px;
+                border: 2px solid red;
+                background-color:green ;
+            }
+
+        </style>
+    </head>
+    <body>
+        write what you want
+        <!--标题标记-->
+<h1 align="center">E</h1>
+<h2 align="center">E</h2>
+<h3 align="left">E</h3>
+<h4 align="left">E</h4>
+<h5 align="right">E</h5>
+<h6 align="right">E</h6>
+
+<!--超链接演示
+可以在href中指定应用内或者应用外的任意地址
+-->
+<a href="http://www.baidu.com">baidu</a>
+
+<!--表格-->
+<h1 align="center">员工信息列表</h1>
+<table border="1px" align="center" width="60%" cellspacing="0px">
+    <!--cellspacing为表格与表格之间的距离-->
+    <!--tr-->
+    <tr>
+        <!--
+            th  标题列，自带居中并加粗
+            td  普通列
+         -->
+        <th>Id</th>
+        <th>Name</th>
+        <th>department</th>
+    </tr>
+    <tr>
+        <th>1</th>
+        <th>aa</th>
+        <th>A</th>
+    </tr>
+    <tr>
+        <th>2</th>
+        <th>bb</th>
+        <th>A</th>
+    </tr>
+</table>
+
+<!--表单:收集用户信息，提交到后台服务器-->
+<form action="http//:www.baidu.com" method="GET/POST">
+    <!--数据提交的格式username=default-->
+    用户名：<input type="test" name="username" value="default"/>
+    <br/>
+    密码：<input type="password" name="password"/>
+    <br/>
+    性别：男 <input type="radio" name="gender" value="1"/>
+    女 <input type="radio" name="gender" value="0"/>
+    <br/>
+    用户爱好：吃饭 <input type="checkbox" name="hobby" value="eat"/>
+    睡觉 <input type="checkbox" name="hobby" value="sleep"/>
+    打游戏 <input type="checkbox" name="hobby" value="play"/>
+    <br/>
+    用户地址：省份<select name="province">
+    <option value="sx">山东</option>
+    <option value="sd">山西</option>
+    <option value="hb">湖北</option>
+</select>
+
+    <br/>
+    <input type="submit" value="注册"/>
+</form>
+
+        <div>这是一个div</div>
+        <div id="d1"></div>
+        <div class="d"></div>
+        <div class="d"></div>
+
+        <!--换行-->
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</body>
+</html>

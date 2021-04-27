@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-study/2020-8-21/2020-8-21.iml" filepath="$PROJECT_DIR$/java-study/2020-8-21/2020-8-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommendSystem/recommender/DataLoader/DataLoader.iml" filepath="$PROJECT_DIR$/MovieRecommendSystem/recommender/DataLoader/DataLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceRecommendSystem/recommander/DataLoader_ecommerce/DataLoader_ecommerce.iml" filepath="$PROJECT_DIR$/EcommerceRecommendSystem/recommander/DataLoader_ecommerce/DataLoader_ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceRecommendSystem/EcommerceRecommendSystem.iml" filepath="$PROJECT_DIR$/EcommerceRecommendSystem/EcommerceRecommendSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flink/Flink.iml" filepath="$PROJECT_DIR$/Flink/Flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flume/Flume.iml" filepath="$PROJECT_DIR$/Flume/Flume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HBase/HBase.iml" filepath="$PROJECT_DIR$/HBase/HBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HBase-demo-1/HBase-demo-1.iml" filepath="$PROJECT_DIR$/HBase-demo-1/HBase-demo-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kafka/Kafka.iml" filepath="$PROJECT_DIR$/Kafka/Kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommendSystem/recommender/KafkaStreaming/KafkaStreaming.iml" filepath="$PROJECT_DIR$/MovieRecommendSystem/recommender/KafkaStreaming/KafkaStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommendSystem/MovieRecommendSystem.iml" filepath="$PROJECT_DIR$/MovieRecommendSystem/MovieRecommendSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommendSystem/recommender/OfflineRecommender/OfflineRecommender.iml" filepath="$PROJECT_DIR$/MovieRecommendSystem/recommender/OfflineRecommender/OfflineRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceRecommendSystem/recommander/OfflineRecommender_ecommerce/OfflineRecommender_ecommerce.iml" filepath="$PROJECT_DIR$/EcommerceRecommendSystem/recommander/OfflineRecommender_ecommerce/OfflineRecommender_ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommendSystem/recommender/StatisticsRecommender/StatisticsRecommender.iml" filepath="$PROJECT_DIR$/MovieRecommendSystem/recommender/StatisticsRecommender/StatisticsRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceRecommendSystem/recommander/StatisticsRecommender_ecommerce/StatisticsRecommender_ecommerce.iml" filepath="$PROJECT_DIR$/EcommerceRecommendSystem/recommander/StatisticsRecommender_ecommerce/StatisticsRecommender_ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommendSystem/recommender/StreamingRecommender/StreamingRecommender.iml" filepath="$PROJECT_DIR$/MovieRecommendSystem/recommender/StreamingRecommender/StreamingRecommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EcommerceRecommendSystem/recommander/StreamingRecommender_ecommerce/StreamingRecommender_ecommerce.iml" filepath="$PROJECT_DIR$/EcommerceRecommendSystem/recommander/StreamingRecommender_ecommerce/StreamingRecommender_ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zookeeper/Zookeeper.iml" filepath="$PROJECT_DIR$/Zookeeper/Zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/big_data.iml" filepath="$PROJECT_DIR$/big_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/data-structure.iml" filepath="$PROJECT_DIR$/data-structure/data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop/hadoop.iml" filepath="$PROJECT_DIR$/hadoop/hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-study/java-study.iml" filepath="$PROJECT_DIR$/java-study/java-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MovieRecommendSystem/recommender/recommender.iml" filepath="$PROJECT_DIR$/MovieRecommendSystem/recommender/recommender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala/scala.iml" filepath="$PROJECT_DIR$/scala/scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark/spark.iml" filepath="$PROJECT_DIR$/spark/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service/tcs-analysis/tcs-analysis.iml" filepath="$PROJECT_DIR$/Telecom-customer-service/tcs-analysis/tcs-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-analysis/tcs-analysis-copy-1/tcs-analysis-copy-1.iml" filepath="$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-analysis/tcs-analysis-copy-1/tcs-analysis-copy-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service/tcs-common/tcs-common.iml" filepath="$PROJECT_DIR$/Telecom-customer-service/tcs-common/tcs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-common-copy-1/tcs-common-copy-1.iml" filepath="$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-common-copy-1/tcs-common-copy-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service/tcs-consumer/tcs-consumer.iml" filepath="$PROJECT_DIR$/Telecom-customer-service/tcs-consumer/tcs-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service/tcs-consumer-coprocessor/tcs-consumer-coprocessor.iml" filepath="$PROJECT_DIR$/Telecom-customer-service/tcs-consumer-coprocessor/tcs-consumer-coprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-consumer-coprocessor-copy-1/tcs-consumer-coprocessor-copy-1.iml" filepath="$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-consumer-coprocessor-copy-1/tcs-consumer-coprocessor-copy-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-consumer-copy-1/tcs-consumer-copy-1.iml" filepath="$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-consumer-copy-1/tcs-consumer-copy-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-prodcuer-copy-1/tcs-prodcuer-copy-1.iml" filepath="$PROJECT_DIR$/Telecom-customer-service-study-1/tcs-prodcuer-copy-1/tcs-prodcuer-copy-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telecom-customer-service/tcs-producer/tcs-producer.iml" filepath="$PROJECT_DIR$/Telecom-customer-service/tcs-producer/tcs-producer.iml" />
+    </modules>
+  </component>
+</project>
